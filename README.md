@@ -51,17 +51,3 @@ Attention: Deppending on the way you have installed the docker in your compile y
 ``` 
 sudo docker-compose up
 ```
-
-For more docker informations and how to install access https://www.docker.com/ .
- 
-## Tutorials
-* Checkout the video toturials list: https://www.youtube.com/playlist?list=PLFaW_8zE4amPaLyz5AyVT8B_wfOYwd8x8
-* My Facebook: https://www.facebook.com/TabvnGroup/
-* Youtube Chanel: https://youtube.com/tabvn
-
-
-## Deploy Node.js React.js to DigitalOcean.com Ubuntu 16.04 Cloud VPS 
-
-* <a href="https://github.com/tabvn/nodejs-reactjs-chatapp/blob/master/deployment-to-digitalocean-hosting.md">Document</a>
-* Video: https://www.youtube.com/watch?v=wJsH45eWNBo
-
